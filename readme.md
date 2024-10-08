@@ -1,4 +1,4 @@
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:521cf2,100:42c330&height=200&section=header&text=CodeCloud&fontSize=90" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=영화관%20예약&fontSize=90" /></div>
 
 
 
