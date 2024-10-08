@@ -2,35 +2,33 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeCloud-at-DGU%2FCodeCloud&count_bg=%23CEDBC5&title_bg=%23555555&icon=joomla.svg&icon_color=%23E7E7E7&title=CodeCloud&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Code Clopud Repo입니다 :)
+영화관 예약 프로그램 입니다 :)
 
 # 👋 팀원 소개
 
-## Code Cloud Team
+## C Progaming Team Project
 
-| 이름                                   | 전공           | Email                  |
-| -------------------------------------- | -------------- | ---------------------- |
-| [서희찬](https://github.com/seochan99) | 컴퓨터공학전공 | gmlcks0513@dgu.ac.kr   |
-| [박영신](https://github.com/dudtlstm)  | 컴퓨터공학전공 | 2022110233@dgu.ac.kr   |
-| [이정선](https://github.com/leejs0823) | 컴퓨터공학전공 | dlwjdtjs0111@dgu.ac.kr |
+| 이름                                   | 전공           |
+| -------------------------------------- | -------------- | 
+| [박종민]  | 컴퓨터공학전공 | 
+| [민정아]  | 컴퓨터공학전공 |
+| [박수빈]  | 컴퓨터공학전공 | 
 
 # 🛠️ Tech
 
 ## FrameWork
 
-JSP
+C
 
 ## 1. 프로젝트 명
 
 단체만의 맞춤형 기술블로그,CODE CLOUD가 만들어드립니다!
 
-### CodeCloud
-
 <br/>
 
 ## 2. 프로젝트 소개
 
-> 준비중입니다.
+최근 매장마다 키오스크가 늘어남으로 인해 노년층이나, 장애인분들이 불편함을 호소하셔서 이를 해결하기 위해 키오스크 프로그램을 제작하기로 하였다. 
 
 ## 🎯 Commit Convention
 
